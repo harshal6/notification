@@ -1,0 +1,14 @@
+{
+    "name": "harshalpradhan/notification",
+    "description": "Notification Channel to send notification via email , sms etc",
+    "type": "project",
+    "require": {
+        "pimple/pimple": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Harshal",
+            "email": "harshal.a.pradhan@gmail.com"
+        }
+    ]
+}
